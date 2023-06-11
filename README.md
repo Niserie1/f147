@@ -6,11 +6,11 @@ F147
 
 ### Takım Elemanları
 
--Sude Habalı 
--Rukiye Berna Turan
--su sümeyye Kalyon
--Kadir Buğra Özen
--Ahmet Çağrı Kılınç
+- Sude Habalı 
+- Rukiye Berna Turan
+- Su sümeyye Kalyon
+- Kadir Buğra Özen
+- Ahmet Çağrı Kılınç
 
 ### Ürün İsmi
 --ÜRÜN ADI--
