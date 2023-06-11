@@ -1,8 +1,40 @@
-# f147
+# TAKIM ADI
 
-A new Flutter project.
+F147
 
-## Getting Started
+## Ürün İle İlgili Bilgiler
+
+### Takım Elemanları
+
+-Sude Habalı 
+-Rukiye Berna Turan
+-su sümeyye Kalyon
+-Kadir Buğra Özen
+-Ahmet Çağrı Kılınç
+
+### Ürün İsmi
+--ÜRÜN ADI--
+
+### Product Backlog URL
+
+Flutter Team 147 Backlog Board =>Tello linki girilecek
+
+### Ürün Açıklaması
+
+
+### Ürün Özellikleri
+
+
+### Hedef Kitle
+
+
+
+### Juriye Not
+
+
+# Sprint 1
+
+
 
 This project is a starting point for a Flutter application.
 
