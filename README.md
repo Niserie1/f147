@@ -59,7 +59,7 @@ Yıllara göre katlanarak artan evcil hayvan sahiplenme oranı pandemiyle berabe
 
 
 - Ürün Durumu: Ekran görüntüleri
-- 
+ 
 ![Screenshot_1687108219](https://github.com/Niserie1/f147/assets/136194864/8e481421-fc66-4a7c-b4eb-a79789bf1acb)
 
 ![Screenshot_1687108226](https://github.com/Niserie1/f147/assets/136194864/0f752323-6853-44bc-a67c-bb91113f1346)
@@ -76,13 +76,3 @@ Yıllara göre katlanarak artan evcil hayvan sahiplenme oranı pandemiyle berabe
 
 [Flutter Team 147 Backlog Board](https://trello.com/invite/accept-board)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
