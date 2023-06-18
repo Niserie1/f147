@@ -57,7 +57,8 @@ Yıllara göre katlanarak artan evcil hayvan sahiplenme oranı pandemiyle berabe
 
 -Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden, kullanım kolaylığı, birden fazla ekran paylaşımı ve odalar ayrımı yapılabildiği için Discord üzerinden yapılmasına karar verilmiştir. 
 
-![disss](https://github.com/Niserie1/f147/assets/92018201/985f3976-e9be-49b8-a94a-adc202a0bbaf)
+![dissonnn](https://github.com/Niserie1/f147/assets/92018201/bf263c0b-3eac-4ee0-85f0-2ed6e012a6b9)
+
 
 
 - Daily Scrum toplantı çıktıları jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
