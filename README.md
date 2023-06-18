@@ -47,10 +47,14 @@ Yıllara göre katlanarak artan evcil hayvan sahiplenme oranı pandemiyle berabe
 
 # Sprint 1
 
+
+- Sprint board update: Sprint board screenshotları: 
+
+![yapılanlar](https://github.com/Niserie1/f147/assets/92018201/d973a4c6-b5ea-4853-8436-9c021049af6f)
+
+
 - Ürün Durumu: Ekran görüntüleri
-
-
-
+- 
 ![Screenshot_1687108219](https://github.com/Niserie1/f147/assets/136194864/8e481421-fc66-4a7c-b4eb-a79789bf1acb)
 
 ![Screenshot_1687108226](https://github.com/Niserie1/f147/assets/136194864/0f752323-6853-44bc-a67c-bb91113f1346)
