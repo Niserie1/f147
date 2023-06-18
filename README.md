@@ -50,7 +50,7 @@ Yıllara göre katlanarak artan evcil hayvan sahiplenme oranı pandemiyle berabe
 - Ürün Durumu: Ekran görüntüleri
 
 
-- ![Uploading onboardscreen.gif…]()
+  - Uploading onboardscreen.gif…
 
 
 
