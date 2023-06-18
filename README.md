@@ -55,7 +55,7 @@ Yıllara göre katlanarak artan evcil hayvan sahiplenme oranı pandemiyle berabe
 
 
 
-- Daily Scrum toplantı çıktıları jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+- Daily Scrum toplantı çıktıları Trello'da "Toplantı Çıktıları" panosunda paylaşılmaktadır.
   
 [Flutter Team 147 Toplantı Çıktıları](https://trello.com/invite/accept-board)
 
