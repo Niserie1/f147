@@ -23,9 +23,22 @@ Flutter Team 147 Backlog Board =>Tello linki girilecek
 Geliştirdiğimiz uygulama, evcil hayvan sahiplerinin kısa ya da uzun süreli olarak evlerinden ayrılmaları durumunda evcil hayvanlarını güvenle bırakabilecekleri, takibini yapabilecekleri bir uygulama olmaması üzerine doğan problemlere çözüm olarak geliştirilmiştir.
 
 ### Ürün Özellikleri
+- Hayvanların ani sağlık problemleri karşısında acil durum veterinerlik ve kontrol hizmeti
+- Evcil hayvan sahiplerinin hayvanları için en uygun bakıcıyı doğrulanmış profiller sayesinde bulabilmesi
+- Evcil hayvan sahipleri ile uygun bakıcıları eşleştirme
+- Hayvanlara güvenilir koşullarda bakılması
+- İhtiyaç durumunda uygulama üzerinden ilan verme, çeşitli ilanları inceleyebilme
+- Uygulama içi mesajlaşma, hayvanların durumuyla ilgili geri bildirim alabilme
 
 
 ### Hedef Kitle
+-Evcil hayvan sahipleri
+-Gelir elde etmek isteyen hayvanseverler
+-Çeşitli durumlardan ötürü düzenli olarak hayvan besleyemeyen hayvanseverler
+-Hayvanlarını salgın hastalık ya da çeşitli güvenlik sorunları sebebiyle başka yerlere bırakamayan kişiler
+-Maddi kaygılardan ötürü hayvan otellerine bırakamayan kişiler
+
+
 
 
 
