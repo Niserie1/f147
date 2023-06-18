@@ -33,12 +33,11 @@ Yıllara göre katlanarak artan evcil hayvan sahiplenme oranı pandemiyle berabe
 
 ### Hedef Kitle
 - Evcil hayvan sahipleri
-- Gelir elde etmek isteyen hayvanseverler
-- Çeşitli durumlardan ötürü düzenli olarak hayvan besleyemeyen hayvanseverler
-- Hayvanlarını salgın hastalık ya da çeşitli güvenlik sorunları sebebiyle başka yerlere bırakamayan kişiler
-- Maddi kaygılardan ötürü hayvan otellerine bırakamayan kişiler
-
-
+- Evcil hayvan severler
+- Seyahat eden kişiler
+- Çalışanlar
+- Yaşlı veya engelli bireyler
+- Öğrenciler
 
 
 
