@@ -45,7 +45,7 @@ Yıllara göre katlanarak artan evcil hayvan sahiplenme oranı pandemiyle berabe
 ### Juriye Not
 
 
-# Sprint 
+# Sprint 1
 
 - Ürün Durumu: Ekran görüntüleri
 
