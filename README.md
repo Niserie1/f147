@@ -13,7 +13,7 @@ F147
 - Ahmet Çağrı Kılınç
 
 ### Ürün İsmi
---ÜRÜN ADI--
+--HappyTails--
 
 ### Product Backlog URL
 
@@ -73,11 +73,10 @@ Yıllara göre katlanarak artan evcil hayvan sahiplenme oranı pandemiyle berabe
 
 ![Screenshot_1687108229](https://github.com/Niserie1/f147/assets/136194864/33d6e63c-531d-4336-8166-444a986fdcd3)
 
-- Sprint Review: Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış, arduino kurulumu ve firebase'e bağlanması sağlanmış, -- uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Mustafa Aksoy
+- Sprint Review: Alınan kararlar: Uygulama teması oluşturuldu ve sayfalarının tasarımları Figma ile yapıldı.Kullanıcı açılış sayfalarının kodları yazıldı ve uygulama genel için genel yol haritasının oluşturulmasına başlandı.
 
 - Sprint Retrospective:
+  - Roller ile ilgili düzenleme yapılmış, scrum master değişmiştir.
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
 
-
-
-[Flutter Team 147 Backlog Board](https://trello.com/invite/accept-board)
 
