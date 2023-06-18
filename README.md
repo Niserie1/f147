@@ -17,7 +17,7 @@ F147
 
 ### Product Backlog URL
 
-Flutter Team 147 Backlog Board =>Tello linki girilecek
+[https://trello.com/invite/accept-board "Flutter Team 147 Backlog Board"]
 
 ### Ürün Açıklaması
 Yıllara göre katlanarak artan evcil hayvan sahiplenme oranı pandemiyle beraber tüm dünyada en yüksek seviyelere ulaşmış durumda.Hatta araştırmalara göre, 10 yıl önce İstanbul'da 5-10 adet hayvan oteli bulunurken şu anda bu sayı 500'lere çıkmıştır. Bununla beraber çeşitli ihtiyaçlar doğmuştur. Geliştirdiğimiz uygulama, evcil hayvan sahiplerinin kısa ya da uzun süreli olarak evlerinden ayrılmaları durumunda evcil hayvanlarını güvenle bırakabilecekleri, takibini yapabilecekleri bir uygulama olmaması üzerine doğan problemlere çözüm olarak geliştirilmiştir. 
@@ -65,6 +65,7 @@ Yıllara göre katlanarak artan evcil hayvan sahiplenme oranı pandemiyle berabe
 
 
 
+[https://trello.com/invite/accept-board "Flutter Team 147 Backlog Board"]
 
 This project is a starting point for a Flutter application.
 
