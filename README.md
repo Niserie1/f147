@@ -45,14 +45,15 @@ Yıllara göre katlanarak artan evcil hayvan sahiplenme oranı pandemiyle berabe
 ### Juriye Not
 
 
-# Sprint 1
+# Sprint 
+
 - Ürün Durumu: Ekran görüntüleri
 
 
 - ![Uploading onboardscreen.gif…]()
 
 
-![Screenshot_1687108219](https://github.com/Niserie1/f147/assets/136194864/80013ebf-4a40-470c-a95f-9127637b35be)
+
 
 
 
