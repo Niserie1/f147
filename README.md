@@ -51,8 +51,10 @@ Yıllara göre katlanarak artan evcil hayvan sahiplenme oranı pandemiyle berabe
 -Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 -Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden, kullanım kolaylığı, birden fazla ekran paylaşımı ve odalar ayrımı yapılabildiği için Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantı çıktıları jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+
 Sprint 1 
 ![dıscc](https://github.com/Niserie1/f147/assets/92018201/a0ea3342-a79a-4441-bdb3-8175aea545df)
+
 
 - Sprint board screenshotları: 
 
