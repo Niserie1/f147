@@ -8,7 +8,7 @@ F147
 
 - Sude Habalı 
 - Rukiye Berna Turan
-- Su sümeyye Kalyon
+- Su Sümeyye Kalyon
 - Kadir Buğra Özen
 - Ahmet Çağrı Kılınç
 
