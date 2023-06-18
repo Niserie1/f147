@@ -55,6 +55,7 @@ Yıllara göre katlanarak artan evcil hayvan sahiplenme oranı pandemiyle berabe
 ![dıscc](https://github.com/Niserie1/f147/assets/92018201/a0ea3342-a79a-4441-bdb3-8175aea545df)
 
 - Daily Scrum toplantı çıktıları jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+  
 [Flutter Team 147 Backlog Board](https://trello.com/invite/accept-board)
 
 - Sprint board screenshotları: 
