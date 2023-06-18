@@ -20,7 +20,7 @@ F147
 Flutter Team 147 Backlog Board =>Tello linki girilecek
 
 ### Ürün Açıklaması
-
+Geliştirdiğimiz uygulama, evcil hayvan sahiplerinin kısa ya da uzun süreli olarak evlerinden ayrılmaları durumunda evcil hayvanlarını güvenle bırakabilecekleri, takibini yapabilecekleri bir uygulama olmaması üzerine doğan problemlere çözüm olarak geliştirilmiştir.
 
 ### Ürün Özellikleri
 
