@@ -1,6 +1,6 @@
 # TAKIM ADI
 
-F147
+Takım Flutter F147
 
 ## Ürün İle İlgili Bilgiler
 
