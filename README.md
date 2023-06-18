@@ -13,7 +13,7 @@ F147
 - Ahmet Çağrı Kılınç
 
 ### Ürün İsmi
---HappyTails--
+HappyTails
 
 ### Product Backlog URL
 
@@ -21,6 +21,12 @@ F147
 
 ### Ürün Açıklaması
 Yıllara göre katlanarak artan evcil hayvan sahiplenme oranı pandemiyle beraber tüm dünyada en yüksek seviyelere ulaşmış durumda.Hatta araştırmalara göre, 10 yıl önce İstanbul'da 5-10 adet hayvan oteli bulunurken şu anda bu sayı 500'lere çıkmıştır. Bununla beraber çeşitli ihtiyaçlar doğmuştur. Geliştirdiğimiz uygulama, evcil hayvan sahiplerinin kısa ya da uzun süreli olarak evlerinden ayrılmaları durumunda evcil hayvanlarını güvenle bırakabilecekleri, takibini yapabilecekleri bir uygulama olmaması üzerine doğan problemlere çözüm olarak geliştirilmiştir. 
+
+-Çeşitli yapıların nedeniyle düzenli olarak hayvan besleyemeyen hayvanseverler
+- Hayvanlarını hastalıkları ya da çeşitli güvenlik soruşturmaları talimatı başka bir yerde bırakamayan kişiler
+- Maddi kaygılardan dolayı hayvan otellerine bırakamayan kişiler
+
+
 
 ### Ürün Özellikleri
 - Hayvanların ani sağlık problemleri karşısında acil durum veterinerlik ve kontrol hizmeti
