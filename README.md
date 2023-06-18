@@ -46,9 +46,14 @@ Yıllara göre katlanarak artan evcil hayvan sahiplenme oranı pandemiyle berabe
 
 
 # Sprint 1
+-Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
+-Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-- Sprint board update: Sprint board screenshotları: 
+-Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden, kullanım kolaylığı, birden fazla ekran paylaşımı ve odalar ayrımı yapılabildiği için Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantı çıktıları jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 
+![dıscc](https://github.com/Niserie1/f147/assets/92018201/a0ea3342-a79a-4441-bdb3-8175aea545df)
+
+- Sprint board screenshotları: 
 
 ![yapılanlar](https://github.com/Niserie1/f147/assets/92018201/d973a4c6-b5ea-4853-8436-9c021049af6f)
 
@@ -63,9 +68,13 @@ Yıllara göre katlanarak artan evcil hayvan sahiplenme oranı pandemiyle berabe
 
 ![Screenshot_1687108229](https://github.com/Niserie1/f147/assets/136194864/33d6e63c-531d-4336-8166-444a986fdcd3)
 
+- Sprint Review: Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış, arduino kurulumu ve firebase'e bağlanması sağlanmış, -- uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Mustafa Aksoy
+
+- Sprint Retrospective:
 
 
-[https://trello.com/invite/accept-board "Flutter Team 147 Backlog Board"]
+
+[Flutter Team 147 Backlog Board](https://trello.com/invite/accept-board)
 
 This project is a starting point for a Flutter application.
 
