@@ -39,7 +39,7 @@ Yıllara göre katlanarak artan evcil hayvan sahiplenme oranı pandemiyle berabe
 - Yaşlı veya engelli bireyler
 - Öğrenciler
 
-##Sprint Notları
+### Sprint Notları
 Bu sprintte tanıştık, fikirlerimiz hakkında konuştuk ve anafikrimiz konusunda anlaştık. Sayfalar hakkında planlamalar yapıp tasarımı oluşturduk ve çok fazla olmasa da kodlamaya başladık. Görev dağılımını yaptık, ana tema hakkında fikirlerimizi netleştirdik. Genel olarak tasarım oluşturmak ve teknik fikirlerimizi paylaşmakla dolu bir sprint oldu.
 
 
