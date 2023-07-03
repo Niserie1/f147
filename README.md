@@ -121,12 +121,13 @@ Bu sprintte tanıştık, fikirlerimiz hakkında konuştuk ve anafikrimiz konusun
 - ![Screenshot_1687716036](https://github.com/Niserie1/f147/assets/136194864/5dadc1e0-a103-4600-8f7f-6603d623d1f6)
 
 
-- Sprint Review: Uygulamanın genel haritası MVP metodu ve draw.io kullanılarak oluşturuldu. Tasarımlarını oluşturduğumuz sayfaların kodlamasına başlandı. 
+- Sprint Review:
+-  Uygulamanın genel haritası MVP metodu ve draw.io kullanılarak oluşturuldu. Tasarımlarını oluşturduğumuz sayfaların kodlamasına başlandı. 
 
 - Sprint Retrospective:
 
-Takım arkadaşlarımızdan biri aktif olamayacağını belirterek gruptan ayrılma kararı aldı.
-Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
-2. Sprint'te bayram dolayısıyla oluşan gecikmelerin genel planı aksatmaması için 3. Sprint'te daha düzenli ve özverili çalışarak giderilmesine karar verildi. 
+- Takım arkadaşlarımızdan biri aktif olamayacağını belirterek gruptan ayrılma kararı aldı.
+- Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+- 2. Sprint'te bayram dolayısıyla oluşan gecikmelerin genel planı aksatmaması için 3. Sprint'te daha düzenli ve özverili çalışarak giderilmesine karar verildi. 
 
 
