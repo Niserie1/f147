@@ -84,9 +84,10 @@ Bu sprintte tanıştık, fikirlerimiz hakkında konuştuk ve anafikrimiz konusun
   - Takım değişikliği sonucunda oluşan gecikme ele alındı ve program takvimine yetişmek için daha planlı çalışma kararı alındı.
  
   - # Sprint 2
-  - Sprint içinde tamamlanması tahmin edilen puan: 170 Puan
+    
+- Sprint içinde tamamlanması tahmin edilen puan: 170 Puan
 
-Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 440 puanlık backlog bulunmaktadır. İlk sprint 100 puan alınmış ve bu sprintte ilk sprintin altına düşmeden, mobil uygulamanın iskeletinin de oluşturulması tamamlandığı için büyüyen ivme gösterme amacı ile ikinci sprintte 170 puan alma planlandı. 
+- Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 440 puanlık backlog bulunmaktadır. İlk sprint 100 puan alınmış ve bu sprintte ilk sprintin altına düşmeden, mobil uygulamanın iskeletinin de oluşturulması tamamlandığı için büyüyen ivme gösterme amacı ile ikinci sprintte 170 puan alma planlandı. 
 
 - Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum.docx](https://github.com/Niserie1/f147/files/11940282/Sprint.2.Daily.Scrum.docx)
 
@@ -117,6 +118,12 @@ Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 440 puan
 - ![Screenshot_1687716036](https://github.com/Niserie1/f147/assets/136194864/5dadc1e0-a103-4600-8f7f-6603d623d1f6)
 
 
+- Sprint Review: Uygulamanın genel haritası MVP metodu ve draw.io kullanılarak oluşturuldu. Tasarımlarını oluşturduğumuz sayfaların kodlamasına başlandı. 
 
+- Sprint Retrospective:
+
+Takım arkadaşlarımızdan biri aktif olamayacağını belirterek gruptan ayrılma kararı aldı.
+Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+2. Sprint'te bayram dolayısıyla oluşan gecikmelerin genel planı aksatmaması için 3. Sprint'te daha düzenli ve özverili çalışarak giderilmesine karar verildi. 
 
 
