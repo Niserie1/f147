@@ -47,11 +47,11 @@ Bu sprintte tanıştık, fikirlerimiz hakkında konuştuk ve anafikrimiz konusun
 
 
 # Sprint 1
--Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+- Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
--Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
--Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden, kullanım kolaylığı, birden fazla ekran paylaşımı ve odalar ayrımı yapılabildiği için Discord üzerinden yapılmasına karar verilmiştir. 
+- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden, kullanım kolaylığı, birden fazla ekran paylaşımı ve odalar ayrımı yapılabildiği için Discord üzerinden yapılmasına karar verilmiştir. 
 
 ![dissonnn](https://github.com/Niserie1/f147/assets/92018201/bf263c0b-3eac-4ee0-85f0-2ed6e012a6b9)
 
