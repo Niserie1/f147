@@ -94,10 +94,29 @@ Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 440 puan
 - Daily Scrum toplantı çıktıları Trello'da "Toplantı Çıktıları" panosunda paylaşılmaktadır.
   
 - [Flutter Team 147 Toplantı Çıktıları](https://trello.com/invite/accept-board)
+- [Flutter Team 147 Toplantı Çıktıları 2](https://trello.com/b/i7ABillO/ilk)
 
 - Sprint board update: Sprint board screenshotları:
 
 <img width="1440" alt="Ekran Resmi 2023-07-03 22 00 50" src="https://github.com/Niserie1/f147/assets/136194864/adca40f9-49c2-4ff4-a8bb-ce9e922b0e73">
+
+- draw.io ile çizilen iş akış senaryoları ekran görüntüsü:
+-  ![WhatsApp Image 2023-06-20 at 19 00 41](https://github.com/Niserie1/f147/assets/136194864/7ad44ed7-755d-4e1c-a353-eb46523c57aa)
+
+-  Ürün Durumu: Ekran Görüntüleri
+-  ![WhatsApp Image 2023-07-01 at 00 02 25](https://github.com/Niserie1/f147/assets/136194864/59d423fb-1bfd-45f0-9ca4-69694a330e21)
+
+- ![WhatsApp Image 2023-07-01 at 00 02 24](https://github.com/Niserie1/f147/assets/136194864/c592b77d-aad4-4a4e-b5fd-fd88bd2947ee)
+
+- ![WhatsApp Image 2023-07-01 at 00 02 24 (3)](https://github.com/Niserie1/f147/assets/136194864/bff4e286-08b2-429b-893b-b658e452d594)
+
+- ![WhatsApp Image 2023-07-01 at 00 02 24 (2)](https://github.com/Niserie1/f147/assets/136194864/a8daa94b-c092-4769-a7a2-440e9b580114)
+
+- ![WhatsApp Image 2023-07-01 at 00 02 24 (1)](https://github.com/Niserie1/f147/assets/136194864/d3fffe2b-d683-4005-8870-3fa56ce76242)
+
+- ![Screenshot_1687716036](https://github.com/Niserie1/f147/assets/136194864/5dadc1e0-a103-4600-8f7f-6603d623d1f6)
+
+
 
 
 
