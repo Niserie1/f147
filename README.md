@@ -122,12 +122,12 @@ Bu sprintte tanıştık, fikirlerimiz hakkında konuştuk ve anafikrimiz konusun
 
 
 - Sprint Review:
-  - Uygulamanın genel haritası MVP metodu ve draw.io kullanılarak oluşturuldu. Tasarımlarını oluşturduğumuz sayfaların kodlamasına başlandı. 
+  -Uygulamanın genel haritası MVP metodu ve draw.io kullanılarak oluşturuldu. Tasarımlarını oluşturduğumuz sayfaların kodlamasına başlandı. 
 
 - Sprint Retrospective:
 
-  - Takım arkadaşlarımızdan biri aktif olamayacağını belirterek gruptan ayrılma kararı aldı.
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
-  - 2. Sprint'te bayram dolayısıyla oluşan gecikmelerin genel planı aksatmaması için 3. Sprint'te daha düzenli ve özverili çalışarak giderilmesine karar verildi. 
+  -Takım arkadaşlarımızdan biri aktif olamayacağını belirterek gruptan ayrılma kararı aldı.
+  -Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+  -2. Sprint'te bayram dolayısıyla oluşan gecikmelerin genel planı aksatmaması için 3. Sprint'te daha düzenli ve özverili çalışarak giderilmesine karar verildi. 
 
 
