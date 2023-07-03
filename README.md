@@ -83,10 +83,10 @@ Bu sprintte tanıştık, fikirlerimiz hakkında konuştuk ve anafikrimiz konusun
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   - Takım değişikliği sonucunda oluşan gecikme ele alındı ve program takvimine yetişmek için daha planlı çalışma kararı alındı.
  
-  - # Sprint 2
+# Sprint 2
 
-- Sprint Notları
-İkinci sprint başlangıç tarihinde sprinte başlanmış ve bu sprintte neler yapılacağı konuşulmuştur. Profil oluşturma sayfaları ve ayarlar sayfası kodlanmıştır. 
+### Sprint Notları
+- İkinci sprint başlangıç tarihinde sprinte başlanmış ve bu sprintte neler yapılacağı konuşulmuştur. Profil oluşturma sayfaları ve ayarlar sayfası kodlanmıştır. 
     
 - Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
