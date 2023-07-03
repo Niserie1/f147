@@ -10,7 +10,7 @@ Takım Flutter F147
 - Rukiye Berna Turan    : Developer 
 - Su Sümeyye Kalyon    : Developer
 - Kadir Buğra Özen    : Developer
-- Ahmet Çağrı Kılınç : Product Owner
+- Ahmet Çağrı Kılınç : Aktif Olmayan Üye
 
 ### Ürün İsmi
 HappyTails
