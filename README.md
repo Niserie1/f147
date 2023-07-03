@@ -82,5 +82,22 @@ Bu sprintte tanıştık, fikirlerimiz hakkında konuştuk ve anafikrimiz konusun
   - Roller ile ilgili düzenleme yapılmış, scrum master değişmiştir.
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   - Takım değişikliği sonucunda oluşan gecikme ele alındı ve program takvimine yetişmek için daha planlı çalışma kararı alındı.
+ 
+  - # Sprint 2
+  - Sprint içinde tamamlanması tahmin edilen puan: 170 Puan
+
+Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 440 puanlık backlog bulunmaktadır. İlk sprint 100 puan alınmış ve bu sprintte ilk sprintin altına düşmeden, mobil uygulamanın iskeletinin de oluşturulması tamamlandığı için büyüyen ivme gösterme amacı ile ikinci sprintte 170 puan alma planlandı. 
+
+- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum.docx](https://github.com/Niserie1/f147/files/11940282/Sprint.2.Daily.Scrum.docx)
+
+
+- Daily Scrum toplantı çıktıları Trello'da "Toplantı Çıktıları" panosunda paylaşılmaktadır.
+  
+- [Flutter Team 147 Toplantı Çıktıları](https://trello.com/invite/accept-board)
+
+- Sprint board update: Sprint board screenshotları:
+
+<img width="1440" alt="Ekran Resmi 2023-07-03 22 00 50" src="https://github.com/Niserie1/f147/assets/136194864/adca40f9-49c2-4ff4-a8bb-ce9e922b0e73">
+
 
 
