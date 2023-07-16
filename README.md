@@ -13,14 +13,14 @@ Takım Flutter F147
 - Ahmet Çağrı Kılınç : Aktif Olmayan Üye
 
 ### Ürün İsmi
-HappyTails
+happytails
 
 ### Product Backlog URL
 
 [Flutter Team 147 Backlog Board](https://trello.com/invite/accept-board)
 
 ### Ürün Açıklaması
-Yıllara göre katlanarak artan evcil hayvan sahiplenme oranı pandemiyle beraber tüm dünyada en yüksek seviyelere ulaşmış durumda. Bununla beraber çeşitli ihtiyaçlar doğmuştur; araştırmalara göre, 10 yıl önce İstanbul'da 5-10 adet hayvan oteli bulunurken şu anda bu sayı 500'lere çıkmış durumdadır ([veri kaynağı](https://www.verikaynagi.com/genel/turkiye-ve-dunyada-evcil-hayvanlar/)). Geliştirdiğimiz uygulama, evcil hayvan sahiplerinin kısa veya uzun süreli olarak evlerinden ayrılmaları durumunda evcil hayvanlarını güvenle bırakabilecekleri, takibini yapabilecekleri bir uygulama olmaması üzerine doğan problemlere çözüm olarak geliştirilmiştir. HappyTails hayvanların güvenli ve iyi koşullarda bakılmasına teşvik ederek bakıcı ve hayvan sahibi arasında sürekli bir iletişim sağlamaya olanak sağlar. HappyTails adıyla, minik dostlarımıza mutlu kuyruklar sağlayan bir platform olarak kullanıcılarımızın geri bildirimlerini değerlendirerek bakıcıları puanlandırırız. Amacımız güvenli ve sağlıklı bir ortamda minik dostlarımızın ihtiyaçlarını en iyi şekilde karşılamaktır.
+Yıllara göre katlanarak artan evcil hayvan sahiplenme oranı pandemiyle beraber tüm dünyada en yüksek seviyelere ulaşmış durumda. Bununla beraber çeşitli ihtiyaçlar doğmuştur; araştırmalara göre, 10 yıl önce İstanbul'da 5-10 adet hayvan oteli bulunurken şu anda bu sayı 500'lere çıkmış durumdadır ([veri kaynağı](https://www.verikaynagi.com/genel/turkiye-ve-dunyada-evcil-hayvanlar/)). Geliştirdiğimiz uygulama, evcil hayvan sahiplerinin kısa veya uzun süreli olarak evlerinden ayrılmaları durumunda evcil hayvanlarını güvenle bırakabilecekleri, takibini yapabilecekleri bir uygulama olmaması üzerine doğan problemlere çözüm olarak geliştirilmiştir. happytails hayvanların güvenli ve iyi koşullarda bakılmasına teşvik ederek bakıcı ve hayvan sahibi arasında sürekli bir iletişim sağlamaya olanak sağlar. HappyTails adıyla, minik dostlarımıza mutlu kuyruklar sağlayan bir platform olarak kullanıcılarımızın geri bildirimlerini değerlendirerek bakıcıları puanlandırırız. Amacımız güvenli ve sağlıklı bir ortamda minik dostlarımızın ihtiyaçlarını en iyi şekilde karşılamaktır.
 
 ### Ürün Özellikleri
 - Hayvanların ani sağlık problemleri karşısında acil durum veterinerlik ve kontrol hizmeti
