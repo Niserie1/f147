@@ -150,10 +150,10 @@ Bu sprintte tanıştık, fikirlerimiz hakkında konuştuk ve anafikrimiz konusun
 - [Flutter Team 147 Toplantı Çıktıları 2](https://trello.com/b/i7ABillO/ilk)
 
 - Sprint board update: Sprint board screenshotları:
--  ![Screenshot_1689326666](https://github.com/Niserie1/f147/assets/117301103/6e1fc7d4-188d-432c-8eb9-c00fafda62db)
+-  ![Ekran Görüntüsü (237)](https://github.com/Niserie1/f147/assets/117301103/5e96b153-8243-42bb-bcd4-37bad70dfd25)
 
 -  Ürün Durumu: Ekran Görüntüleri
--  ![Ekran Görüntüsü (237)](https://github.com/Niserie1/f147/assets/117301103/5e96b153-8243-42bb-bcd4-37bad70dfd25)
+-  ![Screenshot_1689326666](https://github.com/Niserie1/f147/assets/117301103/6e1fc7d4-188d-432c-8eb9-c00fafda62db)
 
 - ![WhatsApp Image 2023-07-14 at 3 33 29 PM](https://github.com/Niserie1/f147/assets/117301103/5224baef-12d9-4678-962d-48aac12caf02)
 
