@@ -151,10 +151,11 @@ Bu sprintte tanıştık, fikirlerimiz hakkında konuştuk ve anafikrimiz konusun
 
 - Sprint board update: Sprint board screenshotları:
 
-<img width="1440" alt="Ekran Resmi 2023-07-03 22 00 50" src="https://github.com/Niserie1/f147/assets/136194864/adca40f9-49c2-4ff4-a8bb-ce9e922b0e73">
+<img width="1440" alt="" src="https://github.com/Niserie1/f147/assets/136194864/adca40f9-49c2-4ff4-a8bb-ce9e922b0e73">
 
 - draw.io ile çizilen iş akış senaryoları ekran görüntüsü:
--  ![WhatsApp Image 2023-06-20 at 19 00 41](https://github.com/Niserie1/f147/assets/136194864/7ad44ed7-755d-4e1c-a353-eb46523c57aa)
+-  ![Ekran Görüntüsü (237)](https://github.com/Niserie1/f147/assets/117301103/5e96b153-8243-42bb-bcd4-37bad70dfd25)
+
 
 -  Ürün Durumu: Ekran Görüntüleri
 -  ![WhatsApp Image 2023-07-01 at 00 02 25](https://github.com/Niserie1/f147/assets/136194864/59d423fb-1bfd-45f0-9ca4-69694a330e21)
