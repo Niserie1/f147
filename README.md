@@ -151,9 +151,7 @@ Bu sprintte tanıştık, fikirlerimiz hakkında konuştuk ve anafikrimiz konusun
 
 - Sprint board update: Sprint board screenshotları:
 
-<img width="1440" alt="" src="https://github.com/Niserie1/f147/assets/136194864/adca40f9-49c2-4ff4-a8bb-ce9e922b0e73">
 
-- draw.io ile çizilen iş akış senaryoları ekran görüntüsü:
 -  ![Ekran Görüntüsü (237)](https://github.com/Niserie1/f147/assets/117301103/5e96b153-8243-42bb-bcd4-37bad70dfd25)
 
 
