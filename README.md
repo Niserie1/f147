@@ -137,11 +137,11 @@ Bu sprintte tanıştık, fikirlerimiz hakkında konuştuk ve anafikrimiz konusun
 ### Sprint Notları
 - İkinci sprint başlangıç tarihinde sprinte başlanmış ve bu sprintte neler yapılacağı konuşulmuştur. Profil oluşturma sayfaları ve ayarlar sayfası kodlanmıştır. 
     
-- Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+- Sprint içinde tamamlanması tahmin edilen puan: 140 Puan
 
-- Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. İlk sprint 100 puan alınmış ve bu sprintte de ilkinde olduğu gibi 100 puan alınması hedeflenmiştir.
+- Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. İlk iki sprintte 100 puan alınmış ve bu sprintte de ivmeyi arttırarak 140 puan alınması hedeflenmiştir.
 
-- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum.docx](https://github.com/Niserie1/f147/files/11940282/Sprint.2.Daily.Scrum.docx)
+- Daily Scrum: Daily Scrum toplantılarını zaman kazandırması açısından  Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum.docx](https://github.com/Niserie1/f147/files/11940282/Sprint.2.Daily.Scrum.docx)
 
 
 - Daily Scrum toplantı çıktıları Trello'da "Toplantı Çıktıları" panosunda paylaşılmaktadır.
