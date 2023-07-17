@@ -135,8 +135,7 @@ Bu sprintte tanıştık, fikirlerimiz hakkında konuştuk ve anafikrimiz konusun
 
   # Sprint 3
 ### Sprint Notları
-- İkinci sprint başlangıç tarihinde sprinte başlanmış ve bu sprintte neler yapılacağı konuşulmuştur. Profil oluşturma sayfaları ve ayarlar sayfası kodlanmıştır. 
-    
+- üçüncü sprint başlangıç tarihinde sprinte başlanmış ve bu sprintte neler yapılacağı konuşulmuştur. İlan verme, İlanlara bakma , haritalar ve giriş yapma akranları kodlanmıştır.
 - Sprint içinde tamamlanması tahmin edilen puan: 140 Puan
 
 - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. İlk iki sprintte 100 puan alınmış ve bu sprintte de ivmeyi arttırarak 140 puan alınması hedeflenmiştir.
@@ -175,11 +174,14 @@ Bu sprintte tanıştık, fikirlerimiz hakkında konuştuk ve anafikrimiz konusun
 
 
 - Sprint Review:
-  
-  -
+  - Yapılan sayfalar birleştirilip, firebaseye bağlanarak çalışır bir uygulama haline getirilmiştir.Tamamlanamayan sayfalar ve özellikler konuşulmuştur
+  - Servis bağlantıları yapılmıştır.  
+  - Sayfaların kodları düzenlenip githuba pushlanmıştır.
+  - Kodlar için yeni bir repo oluşturulmasına karar verilmiştir.
 
 - Sprint Retrospective:
-
+ - Tüm süreç değerlendirilip, beraber öğrenilen kazanımlar ve mobil programlama konusundaki ilerlemeler konuşulmuştur.
+ - Gelecekteki takım çalışmalarında zaman yönetimi ve görev dağılımı konusund daha dikkatli olunması konusu vurgulanmıştır.
  
   
 
